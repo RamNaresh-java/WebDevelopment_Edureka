@@ -1,0 +1,36 @@
+https://github.com/ (create account)
+https://code.visualstudio.com/download  - vs code - download and install
+https://github.com/SangeethaShanmugm -  (follow)
+https://git-scm.com/downloads -( git bash download and install)
+
+
+
+HTML => Raw Structure
+Css => Look & Feel(Design)
+JavaScript => Logics
+JQuery => animation effects, DOM Manipulation, Ajax call(fetch) 
+Bootstrap =>3, 4, 5 => Responsive
+
+
+vs code extension
+----------------
+Live Server
+Prettier - Code formatter
+Code Spell Checker
+eslint
+githistory
+Auto Close Tag
+Auto Rename Tag
+JavaScript (ES6) code snippets
+
+
+HTML template  => shift + !
+
+To set your global username/email configuration:
+-------------------------------------------------
+Open the command line.
+Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
+Set your email address: git config --global user.email "MY_NAME@example.com"
+
+ctrl+? --> to comment the text
+shift+! --> to get the default html code.
